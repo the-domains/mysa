@@ -1,8 +1,7 @@
 name: Mysa
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34807
-title: Mysa Marketing
+layout_spectrum: 0.11451928806491196
+typography_spectrum: 0.8362909662537277
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#8da9b1'
-    - '#010100'
-    - '#fefff6'
-    - '#fe7218'
-    - '#962b07'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5308113405480981
+  lightness: 0.6785401066299528
+  saturation: 0.8870703827124089
+  rhythmicContrast: 0.6138507756404579
 purpose: []
